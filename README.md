@@ -2,7 +2,7 @@
 A portfolio showcasing my manual software testing skills and projects.
 # Introduction
 
-Hi, I'm **[Roxana]**, a passionate junior **Manual Software Tester** with **ISTQB Certificate - Foundation Level**. I specialize in identifying defects, writing detailed test cases, and ensuring software quality. My skills span various testing methodologies, including **functional testing**, **regression testing**, and **UAT** (User Acceptance Testing). I thrive on solving complex problems and delivering high-quality software to users.
+Hi, I'm **Roxana**, a passionate junior **Manual Software Tester** with **ISTQB Certificate - Foundation Level**. I specialize in identifying defects, writing detailed test cases, and ensuring software quality. My skills span various testing methodologies, including **functional testing**, **regression testing**, and **UAT** (User Acceptance Testing). I thrive on solving complex problems and delivering high-quality software to users.
 
 ## Skills & Tools
 
